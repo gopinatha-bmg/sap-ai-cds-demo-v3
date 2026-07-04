@@ -1,0 +1,4 @@
+@EndUserText.label: 'Late FI Document Postings'
+define service ZAI_LATE_POST {
+  expose ZAI_LATE_POST;
+}
