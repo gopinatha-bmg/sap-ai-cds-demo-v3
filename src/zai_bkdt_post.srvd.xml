@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abap:serviceDefinition
+    xmlns:abap="http://www.sap.com/adt/ddic/ddls"
+    name="ZAI_BKDT_POST">
+
+    <description>Back-Dated GL Postings Outside Fiscal Period</description>
+
+    <exposedEntities>
+        <entity
+            name="ZAI_BKDT_POST"
+            cdsView="ZAI_BKDT_POST"/>
+    </exposedEntities>
+
+</abap:serviceDefinition>
