@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abap:serviceDefinition
+    xmlns:abap="http://www.sap.com/adt/ddic/ddls"
+    name="ZAI_JE_UNBAL">
+
+    <description>Unbalanced Journal Entries</description>
+
+    <exposedEntities>
+        <entity
+            name="ZAI_JE_UNBAL"
+            cdsView="ZAI_JE_UNBAL"/>
+    </exposedEntities>
+
+</abap:serviceDefinition>
