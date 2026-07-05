@@ -1,0 +1,4 @@
+@EndUserText.label: 'Large Unapproved FI Documents'
+define service ZAI_LRG_UNAPPR {
+  expose ZAI_LRG_UNAPPR;
+}
