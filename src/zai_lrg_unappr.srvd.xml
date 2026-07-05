@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abap:serviceDefinition
+    xmlns:abap="http://www.sap.com/adt/ddic/ddls"
+    name="ZAI_LRG_UNAPPR">
+
+    <description>Large Unapproved FI Documents</description>
+
+    <exposedEntities>
+        <entity
+            name="ZAI_LRG_UNAPPR"
+            cdsView="ZAI_LRG_UNAPPR"/>
+    </exposedEntities>
+
+</abap:serviceDefinition>
