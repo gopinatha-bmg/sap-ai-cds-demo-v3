@@ -1,0 +1,4 @@
+@EndUserText.label: 'Delayed High-Value Journal Postings'
+define service ZAI_DELAY_HVJE_SERVICED {
+  expose ZAI_DELAY_HVJE;
+}
